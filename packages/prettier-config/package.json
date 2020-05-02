@@ -1,0 +1,13 @@
+{
+  "name": "@ncko/prettier-config",
+  "version": "1.0.0",
+  "description": "IDIQ's prettier configuration",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/ncko/config.git",
+    "directory": "packages/prettier-config"
+  },
+  "author": "Nick Olsen <https://github.com/ncko>",
+  "license": "MIT"
+}
