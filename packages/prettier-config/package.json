@@ -1,6 +1,6 @@
 {
   "name": "@ncko/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IDIQ's prettier configuration",
   "main": "index.json",
   "repository": {
