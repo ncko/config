@@ -70,8 +70,6 @@ In your package.json, add a field "prettier" with the value "@ncko/prettier-conf
 
 ```json
 {
-    ...
-    "prettier": "@ncko/prettier-config",
-    ...
+  "prettier": "@ncko/prettier-config"
 }
 ```
