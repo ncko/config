@@ -13,7 +13,6 @@ module.exports = {
     "object-curly-spacing": ["error", "always"],
     "comma-spacing": "error",
     curly: "error",
-    "newline-before-return": "error",
     "no-trailing-spaces": "error",
     "eol-last": "error",
     "keyword-spacing": "error",
