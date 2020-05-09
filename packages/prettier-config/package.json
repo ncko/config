@@ -1,7 +1,7 @@
 {
   "name": "@ncko/prettier-config",
   "version": "1.0.2",
-  "description": "Prettier config Nick Olsen (ncko)",
+  "description": "Prettier config by Nick Olsen (ncko)",
   "main": "index.json",
   "repository": {
     "type": "git",

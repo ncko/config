@@ -1,7 +1,7 @@
 {
   "name": "@ncko/eslint-config",
   "version": "1.0.1",
-  "description": "ESLint config from Nick Olsen (ncko)",
+  "description": "ESLint config by Nick Olsen (ncko)",
   "main": "index.js",
   "repository": {
     "type": "git",
