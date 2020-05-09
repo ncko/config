@@ -1,7 +1,7 @@
 {
   "name": "@ncko/prettier-config",
   "version": "1.0.1",
-  "description": "IDIQ's prettier configuration",
+  "description": "Prettier config Nick Olsen (ncko)",
   "main": "index.json",
   "repository": {
     "type": "git",
