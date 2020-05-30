@@ -1,12 +1,10 @@
 module.exports = {
-  ecmaFeatures: {
-    jsx: true,
-  },
   extends: [
     "plugin:react/recommended",
     "prettier/react",
     "plugin:jsx-a11y/strict",
   ],
+
   plugins: ["react", "jsx-a11y"],
   rules: {
     "jsx-a11y/label-has-for": "off", // deprecated
@@ -29,6 +27,12 @@ module.exports = {
   settings: {
     react: {
       version: "detect",
+    },
+  },
+  parserOptions: {
+    ecmaFeatures: {
+      jsx: true,
+      modules: true,
     },
   },
 };
